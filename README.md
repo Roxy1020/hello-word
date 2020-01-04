@@ -1,3 +1,4 @@
 # hello-word
 test
-I still know barely nothing about programming, but from now on I start to learn it by meself.
+Edition 1.0
+Edition 1.1
